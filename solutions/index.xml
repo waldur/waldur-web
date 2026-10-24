@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>solutions on Waldur</title><link>https://waldur.com/solutions/</link><description>Recent content in solutions on Waldur</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://waldur.com/solutions/index.xml" rel="self" type="application/rss+xml"/><item><title>Data Center</title><link>https://waldur.com/solutions/data-center/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://waldur.com/solutions/data-center/</guid><description>&lt;p&gt;Waldur is used by Data center operators for automating sales of co-location space and Infrastructure-as-a-Service
+offerings.&lt;/p&gt;
+&lt;h2 id="the-main-benefits-of-using-waldur-for-data-centers-are"&gt;The main benefits of using Waldur for Data centers are:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;A &lt;strong&gt;web-based self-service&lt;/strong&gt; tuned for use cases of a Data center.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrated billing&lt;/strong&gt; with Paypal or in-house system.&lt;/li&gt;
+&lt;li&gt;Support of &lt;strong&gt;multiple identity providers&lt;/strong&gt;: username/password, social, SAML.&lt;/li&gt;
+&lt;li&gt;Ability to &lt;strong&gt;provision services in a fully automated manner&lt;/strong&gt; or through requests.&lt;/li&gt;
+&lt;li&gt;Usage dashboards highlighting &lt;strong&gt;current, historical and projected consumption&lt;/strong&gt; of IT resources.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="implementation"&gt;Implementation&lt;/h2&gt;
+&lt;p&gt;To assure successful implementation of Waldur in a Data center, an agile and evolving approach is suggested.
+It allows to mitigate the risks related to integration and adoption by users.&lt;/p&gt;</description></item><item><title>Digital Marketplace</title><link>https://waldur.com/solutions/digital-marketplace/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://waldur.com/solutions/digital-marketplace/</guid><description>&lt;p&gt;&lt;strong&gt;Waldur Digital Marketplace&lt;/strong&gt; is an extension of the Waldur platform that allows to provide
+digital services from one organization to others in a transparent and zero-bureaucracy
+manner. In particular, it implements a concept of Digital Marketplace for the Government
+sector by allowing private sector to offer ready-made solutions according to the
+established policies that could be deployed in minutes and charged by the actual usage.&lt;/p&gt;
+&lt;p&gt;&lt;img src="../../../img/solutions/waldur-marketplace.svg" alt="Waldur Digital Marketplace high level overview" title="Waldur Digital Marketplace high level overview"&gt;&lt;/p&gt;</description></item><item><title>Government Cloud Solutions</title><link>https://waldur.com/solutions/government-cloud/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://waldur.com/solutions/government-cloud/</guid><description>&lt;p&gt;Waldur Government Cloud Platform (GCP) is a state-of-the-art holistic solution for creating a hybrid
+cloud for the public sector services. It is targeted for operations by an IT authority and can scale from a
+department level to a cross-national one. Successful implementation of the government cloud means
+addressing needs of multiple stakeholders. GCP is a combination of policies, procedures and technology
+aimed at providing the customers with the best fit for their business requirements.&lt;/p&gt;</description></item><item><title>HPC Center</title><link>https://waldur.com/solutions/hpc/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://waldur.com/solutions/hpc/</guid><description>&lt;p&gt;Waldur is used by HPC centers for offering a convenient self-service environment for research communities and
+R&amp;amp;D companies. HPC centers can integrate their SLURM or MOAB-based batch processing facilities,
+add OpenStack clouds and easily provide secure access to their customers.&lt;/p&gt;</description></item><item><title>NREN</title><link>https://waldur.com/solutions/nren/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://waldur.com/solutions/nren/</guid><description>&lt;p&gt;Waldur is used by NREN centers for offering a &lt;strong&gt;convenient self-service environment&lt;/strong&gt; for research communities and
+R&amp;amp;D companies. NREN can integrate their service offerings, including network and cloud services, and
+easily provide secure access to their customers. Moreover, NREN can offer Waldur as a platform for their customers
+to publish services in the Waldur&amp;rsquo;s Marketplace!&lt;/p&gt;</description></item><item><title>Self-service for Internal IT</title><link>https://waldur.com/solutions/self-service-for-internal-it/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://waldur.com/solutions/self-service-for-internal-it/</guid><description>&lt;p&gt;Waldur is used by Internal IT departments for offering a convenient self-service environment for
+company departments by providing a simple web-based catalogue of Internal IT services. Waldur integrates
+natively with Service Desk solution that Internal IT can be using so the introduction of Waldur is not
+affecting backoffice processes.&lt;/p&gt;
+&lt;h2 id="the-main-benefits-of-using-waldur-for-internal-it-departments-are"&gt;The main benefits of using Waldur for Internal IT departments are:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;A &lt;strong&gt;web-based self-service&lt;/strong&gt; tuned for use cases of Internal IT departments.&lt;/li&gt;
+&lt;li&gt;Ability for the end users to &lt;strong&gt;browse service offerings&lt;/strong&gt; from Internal IT.&lt;/li&gt;
+&lt;li&gt;Support of &lt;strong&gt;multiple identity providers&lt;/strong&gt;: local, LDAP, AD or SAML.&lt;/li&gt;
+&lt;li&gt;Non-intrsive &lt;strong&gt;integration with established Service Desk&lt;/strong&gt; procedures.&lt;/li&gt;
+&lt;li&gt;Usage dashboards highlighting &lt;strong&gt;current, historical and projected consumption&lt;/strong&gt; of IT resources by
+company departments.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="implementation"&gt;Implementation&lt;/h2&gt;
+&lt;p&gt;To assure successful implementation of Waldur in a Data center, an agile and evolving approach is suggested.
+It allows to mitigate the risks related to integration and adoption by users.&lt;/p&gt;</description></item></channel></rss>
